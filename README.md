@@ -1,2 +1,2 @@
 # CS-GameDev-Assignment1
-Solutions for 10 Coding Game problems
+Solutions for 10 Coding Game problems from codingame.com
